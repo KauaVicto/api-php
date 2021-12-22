@@ -18,3 +18,4 @@ foreach ($filme_json->results as $result) {
 }
 
 echo $response;
+
